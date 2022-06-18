@@ -1,6 +1,6 @@
 # appLanterna
-Criando APP com sensor de movimento  React Native 
-##Conteúdo 
+Criando APP com sensor de movimento  React Native <br>
+## Conteúdo 
 
 Libs react-native-shake e react-native-torch
 
